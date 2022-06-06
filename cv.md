@@ -20,4 +20,4 @@ return parseInt(value.replace(/[^\d]/g, ""))
 
 ### Languages:  
 *Ukraine* - native;  
-*English* - A2  
+*English* - A2;  
