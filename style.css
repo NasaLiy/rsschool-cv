@@ -11,3 +11,29 @@ body{
     max-width: 1197px;
     margin: auto;
 }
+.container-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 5px 0;
+}
+.logo-img{
+    width: 40%;
+    text-align: center;
+}
+.img-foto{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 5px solid white;
+}
+.header-content{
+    width: 60%;
+}
+h1{
+    color: #f3f5f8;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+}
